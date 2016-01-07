@@ -8,22 +8,20 @@ Estos serán los temas a discutir en este cuatrimestre más algunos temas ya agreg
 
 3.-GitHub - > Hector Medina
 
-4.-Algorithms and Data Structures with C# -> Jose Merchol
+4.-Improving the basics with C# -> Jose Merchol and Ezequiel Garcia
 
-5.-Improving the basics with C# -> Jose Merchol and Ezequiel Garcia
+5.-Collections C# ->Eddy Rodney
 
-6.-Collections C# ->Eddy Rodney
+6.-Introduction to WPF (Windows Presentation Foundation) -> Jose Merchol
 
-7.-Introduction to WPF (Windows Presentation Foundation) -> Jose Merchol
-
-8.-Building your own Portfolio with Bootstrap. -> Ezequiel Garcia and Jose 
+7.-Building your own Portfolio with Bootstrap. -> Ezequiel Garcia and Jose 
 Merchol
 
-9.-Quering SQL -> Ezequiel Garcia and Eddy Rodney
+8.-Quering SQL -> Ezequiel Garcia and Eddy Rodney
 
-10.-LINQ ->Jose Merchol and Rodney Balbuena
+9.-LINQ ->Jose Merchol and Rodney Balbuena
 
-11.-Entity Framework -> Ezequiel Garcia and Jose Merchol
+10.-Entity Framework -> Ezequiel Garcia and Jose Merchol
 
 
 How it works:
