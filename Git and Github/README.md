@@ -11,6 +11,9 @@
 4. [Documentacion de Git](http://git-scm.com/doc)
 5. [GitBook](https://github.com/GitbookIO/gitbook/)
 6. [GIST BY GITHUB: OTRA MANERA DE COMPATIR CÓDIGO](https://geekytheory.com/gist-by-github-otra-manera-de-compatir-codigo/)
+7. [Curso Interactivo de git](https://try.github.io/levels/1/challenges/1)
+8. [git Tutorials and Training - Attlasian](https://www.atlassian.com/git/tutorials/)
+9. [Explaning the basic concepts of git and github](http://thepilcrow.net/explaining-basic-concepts-git-and-github/)
 
 
 ## Referencias para aprender Markdown
