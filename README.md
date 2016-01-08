@@ -1,6 +1,6 @@
-Welcome
+##Welcome
 
-Estos serán los temas a discutir en este cuatrimestre más algunos temas ya agregados más adelante
+**Estos serï¿½n los temas a discutir en este cuatrimestre mï¿½s algunos temas ya agregados mï¿½s adelante**
 
 1.-Command Line the Basics -> Jose Merchol
 
@@ -19,11 +19,13 @@ Merchol
 
 8.-Quering SQL -> Ezequiel Garcia and Eddy Rodney
 
-9.-LINQ ->Jose Merchol and Rodney Balbuena
+10.-Asp.Net Mvc
 
-10.-Entity Framework -> Ezequiel Garcia and Jose Merchol
+11.-LINQ ->Jose Merchol and Rodney Balbuena
+
+12.-Entity Framework -> Ezequiel Garcia and Jose Merchol
 
 
-How it works:
+####**How it works:**
 1.-Todo aquel que valla a presentar un tema debe de hacer una ppt.
-2.-La exposición debe de ser práctica.
+2.-La exposiciï¿½n debe de ser prï¿½ctica.
