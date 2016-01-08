@@ -12,7 +12,7 @@
 
 5. Building your own Portfolio with Bootstrap.
 
-6. Quering SQL 
+6. Querying SQL 
 
 
 ####**How it works:**
